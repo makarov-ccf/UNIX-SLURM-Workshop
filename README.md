@@ -37,3 +37,13 @@ The presentation titled **"Introduction to UNIX/HPCv3/SLURM"** provides an overv
 
 This guide serves as a comprehensive introduction for new users to understand and efficiently utilize UNIX systems, HPC clusters, and SLURM at LRI. Let me know if you need a deeper dive into any section!
 
+### 8 Download content
+
+The directory contains:
+ - Computational_Genomics_WorkShop_UNIX_SLURM_Syllabus.pdf
+ - UNIX_SLURM.pdf - the presentation
+ - HPCv2_demo_scripts - demonstration scripts used during the workshop. 
+   In order to run them, please copy the whole directory to your HPC partition 
+   (/mnt/beegfs/<user>). The detailed instructions are insided HPCv2_demo_scripts/README_RUNNING_JOBS_HPCv2.txt
+ - useful_handouts - UNIX and Vim commands cheatsheets
+
