@@ -5,7 +5,7 @@ The presentation titled **"Introduction to UNIX/HPCv3/SLURM"** provides an overv
    - It is specifically designed for LRI’s HPC resources.
 
 ### 2. **UNIX Fundamentals**
-   - **History**: UNIX originated in the 1960s and remains a leading multitasking and multiuser OS.
+   - **History**: UNIX originated in the late 1960s and remains a leading multitasking and multiuser OS.
    - **Key Commands**: Includes `cd`, `pwd`, `ls`, `chmod`, `rsync`, and many others for navigating, managing files, and transferring data.
    - **File Permissions**: Explained the levels of user access (read, write, execute) and how to modify permissions using `chmod` and `umask`.
 
